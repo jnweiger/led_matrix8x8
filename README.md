@@ -9,3 +9,4 @@ Components:
  * Pollin Lithium-Batterie CF234044, Pollin Art.Nr 271 162
  * Pieces of an IC-Socket
  * Some SMD resistors
+
